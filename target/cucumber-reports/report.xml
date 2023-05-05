@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="6.492">
-    <testcase classname="Click Up test feature" name="Create a new task after creating the list in the created folder" time="6.429">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="6.455">
+    <testcase classname="Click Up test feature" name="Create a new task after creating the list in the created folder" time="6.393">
         <system-out><![CDATA[Given Create a new Folder and verify that the name is correct...............passed
 When Create a new List and verify that the name is correct..................passed
 And Create a one Task and verify that the name is correct...................passed

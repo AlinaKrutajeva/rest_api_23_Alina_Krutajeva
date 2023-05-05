@@ -69,7 +69,7 @@ public class ClickUpSteps {
     }
     @Then("Remove the Task from the List and verify if the Task can't be found there anymore")
     @SuppressWarnings("unchecked")
-    public void removeTheTaskAndVerifyThatTaskDoesNotExist() {
+    public void deleteTheTaskAndVerifyThatTaskDoesNotExist() {
         Response response = getListInfo(LIST_ID);
         List list = response.as(List.class);
 
